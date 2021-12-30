@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kelseywimberley
-- 👀 I’m interested in video games and programming
-- 🌱 I’m currently learning Unreal Engine
-- 💞️ I’m looking to collaborate on games
+- 👋 Hi, I’m Kelsey Wimberley!
+- 👀 I’m interested in video games and programming.
+- 🌱 I’m currently learning how to be a better programmer.
+- 💞️ I’m looking to collaborate on games.
 - 📫 How to reach me: klwimberley@gmail.com
 
 <!---
